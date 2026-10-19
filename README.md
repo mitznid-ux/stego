@@ -1,0 +1,2 @@
+# stego
+stran o stegozavru
